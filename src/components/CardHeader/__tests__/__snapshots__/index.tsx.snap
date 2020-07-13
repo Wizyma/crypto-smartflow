@@ -16,14 +16,14 @@ exports[`render CardHeader correctly 1`] = `
       <b
         class="jsx-805937993  "
         id="list"
-        style="margin: 1rem 5px;"
+        style="margin: 1rem 5px; cursor: pointer;"
       >
         List
       </b>
       <p
         class="jsx-3390086683  "
         id="graph"
-        style="margin: 1rem 5px;"
+        style="margin: 1rem 5px; cursor: pointer;"
       >
         Graph
       </p>
