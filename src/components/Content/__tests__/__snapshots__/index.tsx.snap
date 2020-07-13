@@ -1,0 +1,496 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it should render every variant of Content render list component correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="jsx-2956695818 content "
+  >
+    <div
+      class="jsx-1376450318 row "
+    >
+      <div
+        class="jsx-158700623 col "
+      >
+        <div
+          class="jsx-121907836 image "
+        >
+          <div
+            class="jsx-2292771821 skeleton"
+          />
+          <img
+            alt="BTC"
+            class="jsx-121907836 "
+            height="50"
+            src="https://cryptoicons.org/api/color/btc/200"
+            width="50"
+          />
+        </div>
+      </div>
+      <div
+        class="jsx-180329529 col "
+      >
+        <p
+          class="jsx-3390086683  "
+        >
+          Bitcoin
+        </p>
+      </div>
+      <div
+        class="jsx-180329529 col "
+        style="display: flex; align-items: center; justify-content: flex-end; margin-right: 5px;"
+      >
+        <div
+          class="jsx-898285201 capacity "
+          title="29%"
+        >
+          <span
+            class="jsx-898285201"
+          />
+        </div>
+        <p
+          class="jsx-3390086683  "
+          style="margin-left: 15px;"
+        >
+          29.26 %
+        </p>
+      </div>
+      <div
+        class="jsx-180329529 col "
+        style="display: flex; justify-content: flex-end;"
+      >
+        <p
+          class="jsx-3390086683  "
+        >
+          0.1005 BTC
+        </p>
+      </div>
+      <div
+        class="jsx-180329529 col "
+        style="display: flex; justify-content: flex-end;"
+      >
+        <p
+          class="jsx-3390086683  "
+          style="color: rgb(204, 204, 204);"
+        >
+          860.98 €
+        </p>
+      </div>
+    </div>
+  </div>
+  <div
+    class="jsx-3382564211 divider "
+    role="separator"
+  />
+  <div
+    class="jsx-2956695818 content "
+  >
+    <div
+      class="jsx-1376450318 row "
+    >
+      <div
+        class="jsx-158700623 col "
+      >
+        <div
+          class="jsx-121907836 image "
+        >
+          <div
+            class="jsx-2292771821 skeleton"
+          />
+          <img
+            alt="ETH"
+            class="jsx-121907836 "
+            height="50"
+            src="https://cryptoicons.org/api/color/eth/200"
+            width="50"
+          />
+        </div>
+      </div>
+      <div
+        class="jsx-180329529 col "
+      >
+        <p
+          class="jsx-3390086683  "
+        >
+          Etherum
+        </p>
+      </div>
+      <div
+        class="jsx-180329529 col "
+        style="display: flex; align-items: center; justify-content: flex-end; margin-right: 5px;"
+      >
+        <div
+          class="jsx-1520919870 capacity "
+          title="15%"
+        >
+          <span
+            class="jsx-1520919870"
+          />
+        </div>
+        <p
+          class="jsx-3390086683  "
+          style="margin-left: 15px;"
+        >
+          15.19 %
+        </p>
+      </div>
+      <div
+        class="jsx-180329529 col "
+        style="display: flex; justify-content: flex-end;"
+      >
+        <p
+          class="jsx-3390086683  "
+        >
+          2.2349 ETH
+        </p>
+      </div>
+      <div
+        class="jsx-180329529 col "
+        style="display: flex; justify-content: flex-end;"
+      >
+        <p
+          class="jsx-3390086683  "
+          style="color: rgb(204, 204, 204);"
+        >
+          446.98 €
+        </p>
+      </div>
+    </div>
+  </div>
+  <div
+    class="jsx-3382564211 divider "
+    role="separator"
+  />
+  <div
+    class="jsx-2956695818 content "
+  >
+    <div
+      class="jsx-1376450318 row "
+    >
+      <div
+        class="jsx-158700623 col "
+      >
+        <div
+          class="jsx-121907836 image "
+        >
+          <div
+            class="jsx-2292771821 skeleton"
+          />
+          <img
+            alt="DASH"
+            class="jsx-121907836 "
+            height="50"
+            src="https://cryptoicons.org/api/color/dash/200"
+            width="50"
+          />
+        </div>
+      </div>
+      <div
+        class="jsx-180329529 col "
+      >
+        <p
+          class="jsx-3390086683  "
+        >
+          DASH
+        </p>
+      </div>
+      <div
+        class="jsx-180329529 col "
+        style="display: flex; align-items: center; justify-content: flex-end; margin-right: 5px;"
+      >
+        <div
+          class="jsx-2131296490 capacity "
+          title="0%"
+        >
+          <span
+            class="jsx-2131296490"
+          />
+        </div>
+        <p
+          class="jsx-3390086683  "
+          style="margin-left: 15px;"
+        >
+          0.01 %
+        </p>
+      </div>
+      <div
+        class="jsx-180329529 col "
+        style="display: flex; justify-content: flex-end;"
+      >
+        <p
+          class="jsx-3390086683  "
+        >
+          0.2527 DASH
+        </p>
+      </div>
+      <div
+        class="jsx-180329529 col "
+        style="display: flex; justify-content: flex-end;"
+      >
+        <p
+          class="jsx-3390086683  "
+          style="color: rgb(204, 204, 204);"
+        >
+          0.17 €
+        </p>
+      </div>
+    </div>
+  </div>
+  <div
+    class="jsx-3382564211 divider "
+    role="separator"
+  />
+  <div
+    class="jsx-2956695818 content "
+  >
+    <div
+      class="jsx-1376450318 row "
+    >
+      <div
+        class="jsx-158700623 col "
+      >
+        <div
+          class="jsx-121907836 image "
+        >
+          <div
+            class="jsx-2292771821 skeleton"
+          />
+          <img
+            alt="BAT"
+            class="jsx-121907836 "
+            height="50"
+            src="https://cryptoicons.org/api/color/bat/200"
+            width="50"
+          />
+        </div>
+      </div>
+      <div
+        class="jsx-180329529 col "
+      >
+        <p
+          class="jsx-3390086683  "
+        >
+          Basic Attention Token
+        </p>
+      </div>
+      <div
+        class="jsx-180329529 col "
+        style="display: flex; align-items: center; justify-content: flex-end; margin-right: 5px;"
+      >
+        <div
+          class="jsx-2889423309 capacity "
+          title="7%"
+        >
+          <span
+            class="jsx-2889423309"
+          />
+        </div>
+        <p
+          class="jsx-3390086683  "
+          style="margin-left: 15px;"
+        >
+          7.21 %
+        </p>
+      </div>
+      <div
+        class="jsx-180329529 col "
+        style="display: flex; justify-content: flex-end;"
+      >
+        <p
+          class="jsx-3390086683  "
+        >
+          82.4851 BAT
+        </p>
+      </div>
+      <div
+        class="jsx-180329529 col "
+        style="display: flex; justify-content: flex-end;"
+      >
+        <p
+          class="jsx-3390086683  "
+          style="color: rgb(204, 204, 204);"
+        >
+          211.99 €
+        </p>
+      </div>
+    </div>
+  </div>
+  <div
+    class="jsx-3382564211 divider "
+    role="separator"
+  />
+  <div
+    class="jsx-2956695818 content "
+  >
+    <div
+      class="jsx-1376450318 row "
+    >
+      <div
+        class="jsx-158700623 col "
+      >
+        <div
+          class="jsx-121907836 image "
+        >
+          <div
+            class="jsx-2292771821 skeleton"
+          />
+          <img
+            alt="USDC"
+            class="jsx-121907836 "
+            height="50"
+            src="https://cryptoicons.org/api/color/usdc/200"
+            width="50"
+          />
+        </div>
+      </div>
+      <div
+        class="jsx-180329529 col "
+      >
+        <p
+          class="jsx-3390086683  "
+        >
+          USD Coin
+        </p>
+      </div>
+      <div
+        class="jsx-180329529 col "
+        style="display: flex; align-items: center; justify-content: flex-end; margin-right: 5px;"
+      >
+        <div
+          class="jsx-4083258065 capacity "
+          title="48%"
+        >
+          <span
+            class="jsx-4083258065"
+          />
+        </div>
+        <p
+          class="jsx-3390086683  "
+          style="margin-left: 15px;"
+        >
+          48.33 %
+        </p>
+      </div>
+      <div
+        class="jsx-180329529 col "
+        style="display: flex; justify-content: flex-end;"
+      >
+        <p
+          class="jsx-3390086683  "
+        >
+          14.5099 USDC
+        </p>
+      </div>
+      <div
+        class="jsx-180329529 col "
+        style="display: flex; justify-content: flex-end;"
+      >
+        <p
+          class="jsx-3390086683  "
+          style="color: rgb(204, 204, 204);"
+        >
+          1421.97 €
+        </p>
+      </div>
+    </div>
+  </div>
+  <div
+    class="jsx-3382564211 divider "
+    role="separator"
+  />
+  <div
+    class="jsx-2956695818 content "
+  >
+    <p
+      class="jsx-3390086683  "
+      style="color: rgb(204, 204, 204); text-align: center; font-weight: 700;"
+    >
+      Total Amount = 2942.09 €
+    </p>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`it should render every variant of Content render the graph correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="jsx-2956695818 content "
+  >
+    <div
+      class="recharts-wrapper"
+      style="position: relative; cursor: default; width: 800px; height: 800px;"
+    >
+      <svg
+        class="recharts-surface"
+        height="800"
+        version="1.1"
+        viewBox="0 0 800 800"
+        width="800"
+      >
+        <defs>
+          <clippath
+            id="recharts1-clip"
+          >
+            <rect
+              height="790"
+              width="790"
+              x="5"
+              y="5"
+            />
+          </clippath>
+        </defs>
+        <g
+          class="recharts-layer recharts-pie"
+        >
+          <g
+            class="recharts-layer"
+          >
+            <g
+              class="recharts-layer recharts-pie-sector"
+            />
+            <g
+              class="recharts-layer recharts-pie-sector"
+            />
+            <g
+              class="recharts-layer recharts-pie-sector"
+            />
+            <g
+              class="recharts-layer recharts-pie-sector"
+            />
+            <g
+              class="recharts-layer recharts-pie-sector"
+            />
+          </g>
+        </g>
+      </svg>
+      <div
+        class="recharts-tooltip-wrapper"
+        style="transform: translate(undefinedpx, undefinedpx); pointer-events: none; visibility: hidden; position: absolute; top: 0px;"
+      >
+        <div
+          class="recharts-default-tooltip"
+          style="margin: 0px; padding: 10px; background-color: rgb(255, 255, 255); border: 1px solid #ccc; white-space: nowrap;"
+        >
+          <p
+            class="recharts-tooltip-label"
+            style="margin: 0px;"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="jsx-3382564211 divider "
+    role="separator"
+  />
+  <div
+    class="jsx-2956695818 content "
+  >
+    <p
+      class="jsx-3390086683  "
+      style="color: rgb(204, 204, 204); text-align: center; font-weight: 700;"
+    >
+      Total Amount = 2942.09 €
+    </p>
+  </div>
+</DocumentFragment>
+`;

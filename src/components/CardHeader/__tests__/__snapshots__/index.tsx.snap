@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render CardHeader correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="jsx-1311337904 row "
+  >
+    <b
+      class="jsx-805937993  "
+    >
+      Your Wallet
+    </b>
+    <div
+      style="display: flex;"
+    >
+      <b
+        class="jsx-805937993  "
+        id="list"
+        style="margin: 1rem 5px;"
+      >
+        List
+      </b>
+      <p
+        class="jsx-3390086683  "
+        id="graph"
+        style="margin: 1rem 5px;"
+      >
+        Graph
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;

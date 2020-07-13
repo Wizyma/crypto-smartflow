@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render Graph component correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="jsx-2956695818 content "
+  >
+    <div
+      class="recharts-wrapper"
+      style="position: relative; cursor: default; width: 800px; height: 800px;"
+    >
+      <svg
+        class="recharts-surface"
+        height="800"
+        version="1.1"
+        viewBox="0 0 800 800"
+        width="800"
+      >
+        <defs>
+          <clippath
+            id="recharts1-clip"
+          >
+            <rect
+              height="790"
+              width="790"
+              x="5"
+              y="5"
+            />
+          </clippath>
+        </defs>
+        <g
+          class="recharts-layer recharts-pie"
+        >
+          <g
+            class="recharts-layer"
+          >
+            <g
+              class="recharts-layer recharts-pie-sector"
+            />
+            <g
+              class="recharts-layer recharts-pie-sector"
+            />
+            <g
+              class="recharts-layer recharts-pie-sector"
+            />
+            <g
+              class="recharts-layer recharts-pie-sector"
+            />
+            <g
+              class="recharts-layer recharts-pie-sector"
+            />
+          </g>
+        </g>
+      </svg>
+      <div
+        class="recharts-tooltip-wrapper"
+        style="transform: translate(undefinedpx, undefinedpx); pointer-events: none; visibility: hidden; position: absolute; top: 0px;"
+      >
+        <div
+          class="recharts-default-tooltip"
+          style="margin: 0px; padding: 10px; background-color: rgb(255, 255, 255); border: 1px solid #ccc; white-space: nowrap;"
+        >
+          <p
+            class="recharts-tooltip-label"
+            style="margin: 0px;"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="jsx-3382564211 divider "
+    role="separator"
+  />
+  <div
+    class="jsx-2956695818 content "
+  >
+    <p
+      class="jsx-3390086683  "
+      style="color: rgb(204, 204, 204); text-align: center; font-weight: 700;"
+    >
+      Total Amount = 2942.09 €
+    </p>
+  </div>
+</DocumentFragment>
+`;
